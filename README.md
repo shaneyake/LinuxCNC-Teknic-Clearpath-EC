@@ -25,3 +25,12 @@ Motor 2 is Z axis<br>
   Distributed Clock Sync (DC-Sync) is not working<br>
   More to come to the list<br>
 </p>
+
+<p>Pendant Notes:<br>
+m-home doesn't work <br>
+w-home doesn't work <br>
+safe-z doesn't work <br>
+probe-Z doesn't work <br>
+Start/Pause doesn't work <br>
+
+</p>
